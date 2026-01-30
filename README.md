@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-landing.svg)](https://www.npmjs.com/package/ai-landing)
 [![npm downloads](https://img.shields.io/npm/dm/ai-landing.svg)](https://www.npmjs.com/package/ai-landing)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-landing)](https://github.com/lxgic-studios/ai-landing/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 AI-powered landing page generator. Turn your package.json into a beautiful marketing page.
 
