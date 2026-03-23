@@ -42,7 +42,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-landing#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-landing"
+    "url": "git+https://github.com/LXGIC-Studios/ai-landing.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-landing/issues"
