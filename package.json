@@ -1,5 +1,5 @@
 {
-  "name": "ai-landing",
+  "name": "@lxgicstudios/ai-landing",
   "version": "1.0.0",
   "description": "Generate a beautiful HTML landing page from your package.json",
   "main": "dist/index.js",
