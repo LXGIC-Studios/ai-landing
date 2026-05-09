@@ -15,34 +15,38 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "agentic",
     "ai",
+    "ai-2025",
     "ai-agent",
+    "ai-powered",
     "anthropic",
     "automation",
     "claude",
     "cli",
+    "developer-productivity",
     "developer-tools",
-    "generator",
-    "gpt",
-    "html",
+    "discoverability",
+    "generative-ai",
     "landing-page",
-    "llm",
+    "llm-optimized",
     "marketing",
-    "openai",
-    "saas",
-    "startup",
-    "tailwind",
-    "typescript",
-    "website",
-    "zero-config"
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "react",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-landing#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-landing.git"
+    "url": "https://github.com/LXGIC-Studios/ai-landing"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-landing/issues"
