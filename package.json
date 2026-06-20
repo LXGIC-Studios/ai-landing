@@ -8,7 +8,7 @@
     "ai-landing": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -31,13 +31,22 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-landing",
+  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-landing",
   "keywords": [
+    "ai-overviews",
+    "citation-rate",
+    "conversion",
+    "cta",
+    "generative-engine-optimization",
+    "geo",
+    "hero-section",
     "landing-page",
     "marketing",
-    "conversion",
-    "hero-section",
-    "cta"
+    "may-2026-core-update",
+    "mobile-first",
+    "page-speed",
+    "site-architecture",
+    "technical-seo"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -48,7 +57,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
     "directory": "ai-landing"
   },
   "scripts": {
