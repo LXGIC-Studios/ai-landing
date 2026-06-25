@@ -46,7 +46,9 @@
     "mobile-first",
     "page-speed",
     "site-architecture",
-    "technical-seo"
+    "technical-seo",
+    "2026-standards",
+    "modern-seo"
   ],
   "license": "MIT",
   "main": "dist/index.js",
