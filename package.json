@@ -41,7 +41,9 @@
     "landing-page",
     "marketing",
     "mobile-first",
-    "page-speed"
+    "page-speed",
+    "technical-seo",
+    "site-architecture"
   ],
   "license": "MIT",
   "main": "dist/index.js",
